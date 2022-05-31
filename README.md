@@ -1,3 +1,5 @@
+**MoveYTChatUP**
+
 It moves the chat input box above the actual chat on Youtube live streams.
 
 Tampermonkey is required.
