@@ -1,6 +1,7 @@
 **MoveYTChatUP**
 
-It moves the chat input box above the actual chat on Youtube live streams.
+It moves the chat input box above the actual chat on Youtube live streams.  
+Create a new script in Tampermonkey and replace it with the one in MoveYTChatUP.js
 
 Tampermonkey is required.
 You can get Tampermonkey here:  
